@@ -1,0 +1,2 @@
+1: Today I've started the Design Patterns in Modern C++ course
+2: It's a very good course
