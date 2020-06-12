@@ -45,4 +45,6 @@ int main()
     journal.addEntry("It's a very good course");
 
     PersistenceManager::save(journal, "myJournal.txt");
+
+    return 0;
 }

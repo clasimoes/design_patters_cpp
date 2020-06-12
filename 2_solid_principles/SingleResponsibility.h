@@ -11,7 +11,7 @@ using std::vector;
 class Journal
 {
     public:
-        Journal(const string& title);
+        explicit Journal(const string& title);
 
         void addEntry(const string& entry);
 
