@@ -2,4 +2,4 @@ Exercises of Udemy's course "Design Patterns in Modern C++", from Dmitri Nesteru
 
 Course link: https://www.udemy.com/course/patterns-cplusplus/
 
-June/July 2020
+Course took during June/July 2020
