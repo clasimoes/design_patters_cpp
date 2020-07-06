@@ -1,2 +1,5 @@
-Code relative to Udemy's course "Design Patterns in Modern C++"
-https://www.udemy.com/course-dashboard-redirect/?course_id=1319770
+Exercises of Udemy's course "Design Patterns in Modern C++", from Dmitri Nesteruk
+
+Course link: https://www.udemy.com/course/patterns-cplusplus/
+
+June/July 2020
